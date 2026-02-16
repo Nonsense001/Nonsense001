@@ -25,3 +25,9 @@
   - Vibe codingでの実装
   - **フロント**: Vue 3 + TypeScript + Vite + Vue Router / **バックエンド**: Node.js(Express) + TypeScript / **DB**: MySQL
   - **RPGバトルシミュレーター（Webアプリ）**。ターン制コマンドバトル、育成（経験値ストックと割り振り）、階層型ダンジョン、マスタデータ管理などを実装しています。設計・仕様ドキュメントも同梱。
+
+- `rhythm/`
+  - `https://github.com/Nonsense001/rhythm`
+  - Vibe codingでの実装
+  - **フロント**: React + TypeScript + Vite
+  - **リズム構築アプリ（Webアプリ）**。4x4グリッドへの音符配置、**ベクトル（矢印）による再生方向の制御**、BPM変更、クリック音のON/OFFなどを実装しています。
