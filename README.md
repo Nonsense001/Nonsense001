@@ -31,3 +31,9 @@
   - Vibe codingでの実装
   - **フロント**: React + TypeScript + Vite
   - **リズム構築アプリ（Webアプリ）**。4x4グリッドへの音符配置、**ベクトル（矢印）による再生方向の制御**、BPM変更、クリック音のON/OFFなどを実装しています。
+
+- `react_study/`
+  - `https://github.com/Nonsense001/react_study`
+  - React学習のためのアプリを作る(未完成)
+  - **フロント**: React + TypeScript + Vite
+  - **React学習用リポジトリ**。基礎から応用（Hooks, Routing, Zustand）までを網羅する学習記録。**インプットとアウトプットを組み合わせたカリキュラム**で進行し、複数の小規模アプリや最終課題を収録予定。
