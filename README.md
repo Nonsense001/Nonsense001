@@ -37,3 +37,9 @@
   - React学習のためのアプリを作る(未完成)
   - **フロント**: React + TypeScript + Vite
   - **React学習用リポジトリ**。基礎から応用（Hooks, Routing, Zustand）までを網羅する学習記録。**インプットとアウトプットを組み合わせたカリキュラム**で進行し、複数の小規模アプリや最終課題を収録予定。
+
+- `compare_model/`
+  - `https://github.com/Nonsense001/compare_model`
+  - AIモデル出力の比較用Webアプリ
+  - **フロント**: React 19 + Vite 6 / react-resizable-panels / Vanilla CSS（ダークテーマ）
+  - **AI Model Compare**。複数AIモデルの出力を左右に並べて比較するWebアプリ。プロンプト一覧・モデル選択・想定解表示に対応し、txt/html 出力を表示します。
